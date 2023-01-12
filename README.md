@@ -16,7 +16,7 @@ I am a Computer Science Student in University of Ibn Zohz. I am always eager to 
 - AI
 
 ## Projects
-- [car rental](https://github.com/bssayla/Projet_Location_Voiture): A Terminal programme for gestion of rental carsusing C.
+- [car rental](https://github.com/bssayla/Projet_Location_Voiture): A Terminal programme for gestion of rental cars using C.
 - [Snake Game](https://github.com/bssayla/SnakeGame): A Graphical Snack game using C++.
 
 [![Twitter](https://img.shields.io/twitter/follow/bssayla.svg?style=social)](https://twitter.com/bssayla)
