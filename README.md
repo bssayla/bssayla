@@ -6,6 +6,7 @@ I am a Computer Science Student in University of Ibn Zohz. I am always eager to 
 
 ## Skills
 - Python
+- Java
 - Shell Scripting
 - C/C++
 - SQL
@@ -13,9 +14,8 @@ I am a Computer Science Student in University of Ibn Zohz. I am always eager to 
 
 
 ## Interests
-- Machine learning
-- Deep Learning
-- AI
+- Cyber Security
+- Machine learning / AI
 
 ## Projects
 - [car rental](https://github.com/bssayla/Projet_Location_Voiture): A Terminal programme for gestion of rental cars using C.
