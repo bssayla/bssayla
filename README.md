@@ -24,3 +24,10 @@ I am a Computer Science Student in University of Ibn Zohz. I am always eager to 
 
 [![Twitter](https://img.shields.io/twitter/follow/bssayla.svg?style=social)](https://twitter.com/bssayla)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/bssayla)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bssayla&theme=cobalt)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bssayla&theme=cobalt)
