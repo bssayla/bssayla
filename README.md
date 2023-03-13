@@ -36,13 +36,13 @@ I am always eager to learn new technologies and enjoy collaborating with others 
 ![Profile views](https://gpvc.arturio.dev/bssayla)  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bssayla&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bssayla&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bssayla&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bssayla&theme=dark)
 ![GitHub metrics](https://metrics.lecoq.io/bssayla)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bssayla)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=bssayla&theme=dark)  
 
 
 
