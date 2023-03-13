@@ -1,8 +1,9 @@
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-# [Mohamed Ouaicha] :wave:
+### Hi there 👋, my name is Mohamed Ouaicha
+#### I am a Computer Science Student in University of Ibn Zohz. 
+![I am a Computer Science Student in University of Ibn Zohz. ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-I am a Computer Science Student in University of Ibn Zohz. I am always eager to learn new technologies and enjoy collaborating with others on open-source projects.
+I am always eager to learn new technologies and enjoy collaborating with others on open-source projects.
 
 ## Skills
 - Python
@@ -22,12 +23,27 @@ I am a Computer Science Student in University of Ibn Zohz. I am always eager to 
 - [Snake Game](https://github.com/bssayla/SnakeGame): A Graphical Snack game using C++.
 - [Soduku Solver](https://github.com/bssayla/sudokuSolver):The backtrack algorithm to solve a sudoku board in Python/javaScript
 
-[![Twitter](https://img.shields.io/twitter/follow/bssayla.svg?style=social)](https://twitter.com/bssayla)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/bssayla)
+## Other things
+- 🔭 I’m currently working on Java/C++  Code and SQL script Generator from XML File 
+- 🌱 I’m currently learning Java(Swing, Jdom...)  
+- 📫 How to reach me: Ouaicha47@gmail.com 
+- ⚡ Fun fact: am Mr.Onion 
 
+## Social Media
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bssayla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bssayla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bssayla_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bssayla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/bssayla)  
+
+
+![Profile views](https://gpvc.arturio.dev/bssayla)  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bssayla&theme=cobalt)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bssayla&theme=cobalt)
+![GitHub metrics](https://metrics.lecoq.io/bssayla)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=bssayla)  
+
+
+
+
