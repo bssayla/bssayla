@@ -19,6 +19,7 @@ I am always eager to learn new technologies and enjoy collaborating with others 
 - Machine learning / AI
 
 ## Projects
+- [My bachelor degree project](https://github.com/bssayla/class-generator): generate code from class diagrammes using JAVA(Swing/jdom).
 - [car rental](https://github.com/bssayla/Projet_Location_Voiture): A Terminal programme for gestion of rental cars using C.
 - [Snake Game](https://github.com/bssayla/SnakeGame): A Graphical Snack game using C++.
 - [Soduku Solver](https://github.com/bssayla/sudokuSolver):The backtrack algorithm to solve a sudoku board in Python/javaScript
