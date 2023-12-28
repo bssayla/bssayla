@@ -34,14 +34,10 @@ I am always eager to learn new technologies and enjoy collaborating with others 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bssayla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bssayla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bssayla_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bssayla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/bssayla)  
 
 
-![Profile views](https://gpvc.arturio.dev/bssayla)  
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bssayla&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bssayla&theme=dark)
-![GitHub metrics](https://metrics.lecoq.io/bssayla)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bssayla&theme=dark)  
 
