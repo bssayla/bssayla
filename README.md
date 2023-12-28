@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Mohamed Ouaicha
-#### I am a Computer Science Student in University of Ibn Zohz. 
+#### I am a Data Science Student in in University of Ibn Zohz. 
 ![I am a Computer Science Student in University of Ibn Zohz. ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 I am always eager to learn new technologies and enjoy collaborating with others on open-source projects.
